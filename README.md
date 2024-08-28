@@ -11,7 +11,7 @@ I wrote code to generate sample lists for the following scenarios:
 -**_List Comprehension wit a Transormation_**  
 -**_Nested List Comprehension_**  
 -**_List Comprehension with a Function_**   
--**_List Comprehension with Multiple Conditions_**
+-**_List Comprehension with Multiple Conditions_**  
 **3. Explaining Compound Datatypes**  
 These are datatypes that can hold multiple elements, of different datatypes. These are:   
 **_Lists_** - These are an ordered collections of data elements that can be changed after the list is created.  
